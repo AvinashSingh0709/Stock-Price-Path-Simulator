@@ -1,4 +1,4 @@
-# 📈 Stock Price Path Simulator & Greeks Dashboard
+#  Stock Price Path Simulator & Greeks Dashboard
 
 A beginner-friendly Quantitative Finance dashboard built with Streamlit.
 
