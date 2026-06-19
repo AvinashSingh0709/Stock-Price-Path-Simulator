@@ -1,5 +1,4 @@
 import sys
-sys.path.insert(0, "C:/Users/avina/Desktop/Stock")
 
 import streamlit as st
 import numpy as np
